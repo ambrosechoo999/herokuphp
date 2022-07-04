@@ -1,6 +1,6 @@
 <html>
-<meta name="viewport">
 <head>
+    <meta name="viewport">
     <title> Test Page </title>
 </head>
 <body>
